@@ -1,7 +1,7 @@
 **Problem-1**: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
 Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
 Datatype :> ‘a’ = double, ‘b’ = double, ‘type of operation’ = string
-Programming language: Python
+**Programming language: Python**
 
 **Problem-2**: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
 Output: (examples)
